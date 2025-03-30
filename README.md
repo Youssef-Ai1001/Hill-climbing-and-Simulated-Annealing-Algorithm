@@ -1,5 +1,3 @@
-# Youssef taha badawi
-
 # Hill Climbing and Simulated Annealing
 
 This repository contains implementations and examples of two popular AI search algorithms: **Hill Climbing** and **Simulated Annealing**. These algorithms are used for optimization problems where the goal is to find the best solution from a large set of possible solutions.
