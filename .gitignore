@@ -1,0 +1,4 @@
+*.log 
+!txt.log
+node_packs/
+# .gitignore
